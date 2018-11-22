@@ -1,7 +1,6 @@
 first commit
 
-this is normal and good feature 
+this is normal and good feature and bad_feature
 
 test new feature
-
 
