@@ -1,5 +1,7 @@
 first commit
 
-this is normal
+this is normal and good feature 
 
 test new feature
+
+
