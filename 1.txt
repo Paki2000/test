@@ -1,3 +1,3 @@
 first commit
 
-this is great 
+this is good feature 
